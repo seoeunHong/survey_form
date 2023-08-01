@@ -1,0 +1,90 @@
+[
+    {
+        "question": "Aunt Korina and her 3 friends decide to share a cab to go to the mall. If they each spent $6, how much did the cab ride cost altogether? Write an equation using a letter to represent the unknown. Solve.",
+        "original_fk": 4.9,
+        "original_answer": "Let x = total cost \nx = 6 + 6 + 6 + 6 \nx = 24 \nThe cab ride cost $24 altogether.",
+        "simplified_question": "Aunt Korina and three friends shared a cab. They each spent $6. How much did the cab ride cost? Write an equation with a letter. Solve.",
+        "simplified_fk": 1.1,
+        "simplified_q_answer": "4x + 6 = 24\nx = 5\nThe cab ride cost $24."
+    },
+    {
+        "question": "The carnival is in town for 21 days. How many weeks is the carnival in town? (There are 7 days in 1 week.) Write an equation, and solve.",
+        "original_fk": 1.3,
+        "original_answer": "Equation: 21 \u00f7 7 = \n\nAnswer: 3 weeks",
+        "simplified_question": "The carnival will be here for 21 days. How many weeks is that? (7 days in 1 week.) Write an equation and solve.",
+        "simplified_fk": -0.4,
+        "simplified_q_answer": "3 weeks\n21 days = 3 weeks \n21 \u00f7 7 = 3"
+    },
+    {
+        "question": "There are 48 liters of water needed to finish filling the dunk tank at the carnival. Each container holds 8 liters of water. How many containers are needed to finish filling the dunk tank? Represent the problem using multiplication and division sentences and a letter for the unknown. Solve.",
+        "original_fk": 8.1,
+        "original_answer": "Division Sentence: 48 \u00f7 8 = x\nMultiplication Sentence: 8 x x = 48\n\nAnswer: \n6 containers",
+        "simplified_question": "We need 48 liters of water to fill the dunk tank. Each container can hold 8 liters. How many containers do we need? Write a multiplication and division sentence with a letter for the unknown. Solve.",
+        "simplified_fk": 4.4,
+        "simplified_q_answer": "Let x = number of containers\n\n8x / 8 = 48 / 8 \n\nx = 6 containers"
+    },
+    {
+        "question": "Fabrizio wins a bumblebee doll with 6 stripes.  He notices that 5 other children in line for the Magic \nShow won the same doll.  How many stripes are on 6 bumblebee dolls?  Write an equation using a letter to represent the unknown.  Solve.",
+        "original_fk": 4.0,
+        "original_answer": "Let x = the number of stripes\n\n6x = 30\n\nx = 5 \n\nThere are 5 stripes on 6 bumblebee dolls.",
+        "simplified_question": "Fabrizio wins a bumblebee doll with 6 stripes. Five other people also won the same doll. How many stripes are on all the dolls? Write an equation to solve.",
+        "simplified_fk": 1.4,
+        "simplified_q_answer": "6 x 6 = 36 stripes"
+    },
+    {
+        "question": "In\nOut\n2 Feathers\n14 Feathers\n3 Marbles\n21 Marbles\n4 Dice\n28 Dice\n5 Wands\n35 Wands\n6 Bean bags\n___ Bean bags\nThe magician uses a magic box.  Every time he puts an object in, it gets multiplied.  Fabrizio writes down what happens each time and tries to find a pattern.  Look at his notes to the right.\nUse the pattern to fill in the number of bean bags. \nWhat does the magic box do? Explain how you know.",
+        "original_fk": 3.1,
+        "original_answer": "42 Bean bags\n\nThe magic box multiplies items by seven. This can be observed from Fabrizio's notes, where each time an object is placed in the box, it multiplies the number by seven.",
+        "simplified_question": "The magician has a magic box. He puts things in and it makes more. Fabrizio wrote down what happened each time. Look at his notes. Use the pattern to figure out how many bean bags there are. What does the magic box do? Explain how you know.",
+        "simplified_fk": 1.2,
+        "simplified_q_answer": "The magic box doubles the number of bean bags each time.\nI can tell because Fabrizio's notes show that each time he puts one bean bag in the box, it doubles the amount of bean bags inside. Therefore, after three times, there are 8 bean bags inside the box."
+    },
+    {
+        "question": "In\nOut\n2 Feathers\n14 Feathers\n3 Marbles\n21 Marbles\n4 Dice\n28 Dice\n5 Wands\n35 Wands\n6 Bean bags\n___ Bean bags\nThe magician uses a magic box.  Every time he puts an object in, it gets multiplied.  Fabrizio writes down what happens each time and tries to find a pattern.  Look at his notes to the right.\n\nThe magician puts 12 rings into the magic box.  Fabrizio draws a number bond to find the total number of rings after they are multiplied in the magic box.  Use the number bond to show how Fabrizio might have solved the problem. ",
+        "original_fk": 5.4,
+        "original_answer": "In 12\nOut  72",
+        "simplified_question": "The magician uses a magic box. He puts things in it and it multiplies them. Fabrizio writes down what happens. He sees a pattern. He puts 12 rings into the box. Use a number bond to show how he might have solved the problem.",
+        "simplified_fk": 2.6,
+        "simplified_q_answer": "12 balloons \n+12 balloons\n=24 balloons"
+    },
+    {
+        "question": "After the show, Fabrizio and 5 friends equally share the cost of a $54 magic set.  They use the equation 6\u00a0\u00d7\u00a0n\u00a0=\u00a0$54 to figure out how much each person pays.  How much does Fabrizio pay?",
+        "original_fk": 3.3,
+        "original_answer": "$9",
+        "simplified_question": "Fabrizio and 5 friends shared the cost of a $54 magic set. They used an equation to figure out how much each person pays. How much does Fabrizio pay?",
+        "simplified_fk": 2.4,
+        "simplified_q_answer": "$10.80"
+    },
+    {
+        "question": "Mr. Lewis arranges all the desks in his classroom into 6 equal groups of 4.  a) How many desks are in his classroom?  Show a picture and multiplication sentence in your work. What does the product in your multiplication sentence represent? b) Fill in the blanks below to complete a related division sentence. __ / 4 = ___. What does the quotient in part (b) represent?",
+        "original_fk": 4.5,
+        "original_answer": "a) 24 desks; 24 \u00f7 4 = 6; The quotient represents the number of equal groups.",
+        "simplified_question": "Mr. Lewis has 6 groups of desks with 4 desks each. How many desks are there? Show a picture. Make a multiplication sentence. What does the answer mean? Make a division sentence with the 4 desks. What does the answer mean?",
+        "simplified_fk": 2.1,
+        "simplified_q_answer": "Picture: \n\nMultiplication sentence: 6 x 4 = 24\nAnswer means: There are 24 desks.\n\nDivision sentence: 24 \u00f7 4 = 6\nAnswer means: There are 6 groups of desks."
+    },
+    {
+        "question": "Draw an array that shows 9 rows of 2.  Write a multiplication sentence to represent the array, and circle the factor that represents the number of rows.",
+        "original_fk": 7.4,
+        "original_answer": "9 x 2 = 18\nThe factor that represents the number of rows is 9.",
+        "simplified_question": "Draw a picture with 9 rows of 2. Write a number sentence for the picture. Circle the number that represents the number of rows.",
+        "simplified_fk": 4.1,
+        "simplified_q_answer": "Rows: 9\nNumber Sentence: 9 x 2 = 18 \nCircle: 9"
+    },
+    {
+        "question": "Draw another array that shows 2 rows of 9. Write a different multiplication sentence, and circle the factor that represents the size of the row.",
+        "original_fk": 8.2,
+        "original_answer": "Array: \n|****|****|\n|****|****|\n\nMultiplication Sentence:\n2 x 9 = 18\n\nCircle: 2",
+        "simplified_question": "Draw a picture with 2 rows of 9. Write a sentence with multiplication and circle the number for the rows.",
+        "simplified_fk": 4.8,
+        "simplified_q_answer": "There are 9 rows with 9 items each, making a total of (9 x 9) 81 items."
+    },
+    {
+        "question": "Mr. Myer\u2019s class plays a game.  The class earns 5 points each time they answer a question correctly.  The class earns 50 points playing the game on Monday. \na) How many questions did the class answer correctly?  Show a picture and division sentence in your work. b) Mr. Myer uses the equation 5 \u00d7 _____ = 50 to find how many questions the class answered correctly. Is his method correct? Why or why not? c) The class answered 7 questions correctly on Tuesday. What is the total number of points the class earned on both days?",
+        "original_fk": 3.4,
+        "original_answer": "a) 5 \u00f7 5 = 1, so the class answered 1 question correctly. \nb) No, his method is not correct. He is trying to divide 50 by 5 to get the number of questions answered correctly but this method does not work. \nc) The class earned 55 points on both days.",
+        "simplified_question": "Mr. Myer's class plays a game. They get 5 points each time they get an answer right. They got 50 points on Monday. How many questions did they answer right? Draw a picture and write a division sentence. Mr. Myer used an equation. Is it correct? Did they answer 7 questions on Tuesday? How many points did they get altogether?",
+        "simplified_fk": 2.4,
+        "simplified_q_answer": "10 questions (5 points/question); Yes, the equation is correct; No, they did not answer 7 questions on Tuesday; 70 points altogether."
+    }
+]
